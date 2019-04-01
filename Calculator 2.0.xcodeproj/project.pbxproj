@@ -13,6 +13,7 @@
 		4F891386225200640004BBC1 /* Calculator_2_0.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4F891384225200640004BBC1 /* Calculator_2_0.xcdatamodeld */; };
 		4F891388225200650004BBC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F891387225200650004BBC1 /* Assets.xcassets */; };
 		4F89138B225200650004BBC1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F891389225200650004BBC1 /* LaunchScreen.storyboard */; };
+		4F89139322520A140004BBC1 /* CalculatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F89139222520A140004BBC1 /* CalculatorViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4F891387225200650004BBC1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4F89138A225200650004BBC1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4F89138C225200650004BBC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F89139222520A140004BBC1 /* CalculatorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				4F89137D225200640004BBC1 /* AppDelegate.swift */,
 				4F89137F225200640004BBC1 /* ViewController.swift */,
+				4F89139222520A140004BBC1 /* CalculatorViewController.swift */,
 				4F891381225200640004BBC1 /* Main.storyboard */,
 				4F891387225200650004BBC1 /* Assets.xcassets */,
 				4F891389225200650004BBC1 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				4F891380225200640004BBC1 /* ViewController.swift in Sources */,
 				4F891386225200640004BBC1 /* Calculator_2_0.xcdatamodeld in Sources */,
+				4F89139322520A140004BBC1 /* CalculatorViewController.swift in Sources */,
 				4F89137E225200640004BBC1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
